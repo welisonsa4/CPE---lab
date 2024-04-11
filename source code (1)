@@ -1,0 +1,133 @@
+/*
+Autor: Welison da Silva Alves
+Matrícula: 241037711
+Disciplina: Computação para Engenharia
+Professor: Wesin Alves
+Título: Lista de Exercício 1
+*/
+
+1- 
+CPU - Hardware
+Disco rígido - Hardware
+Programa Word - Software
+Instagram - Software
+Teclado - Hardware
+
+2- 
+Software refere-se a um conjunto de programas, 
+instruções e dados que permitem que um computador execute tarefas específicas. 
+Ele é intangível, o que significa que não pode ser tocado fisicamente, 
+ao contrário do hardware, que consiste em componentes físicos como CPU, disco rígido, etc.
+
+3- 
+Um algoritmo é basicamente um conjunto de instruções que você segue para fazer algo.
+Por exemplo, se você quiser que um computador adicione dois números, 
+você precisa dar a ele um conjunto de instruções claras sobre como fazer isso.
+
+4- 
+- Software odontologia: Dolphin - Trabalhei 3 anos com este software a qual faz reconstruções tompográficas em 3d
+- Software Medicina: Bravo, Nx, Ge, Siemens, Kanon, Toshiba, Phillips... 
+Equipamentos de tomografia, Ressonancia, Raio-X e etc. Em geral possuem
+- Software para analisar imagens médicas. Trabalho atualmente com Nx, Ge e Siemens.
+- Software Python com bibliotecas científicas (como NumPy, SciPy e Pandas) 
+Amplamente utilizado na análise de dados, 
+modelagem matemática, simulações e outras aplicações científicas.
+- Software entreterimento: Spotify Um serviço de streaming de música 
+que utiliza algoritmos de recomendação para personalizar 
+as listas de reprodução com base nos gostos dos usuários.
+
+5-
+Softwares que facilitam a vida:
+Google Maps, Waze e outros aplicativos de GPS;
+Microsoft Office
+Mint ou YNAB
+Softwares que complicam a vida:
+Editores de texto complicam minha vida, mas tenho interesse em aprender.
+
+6- 
+Minha rotina profissional pede para que eu utilize ferramentos computacionais
+a todo momento. Exemplo são os equipamentos de tomografia e raio-x.
+
+7-
+A otimização de doses de radiação não seria possível sem recursos computacionais, aos quais 
+possibilitam analisar as imagens e verificar se tem possíveis erros ou não. Além de poder
+fazer reconstruções em 3 dimensões e poder fornecer uma análise mais completa e precisa.
+
+8-
+Navegadores da web; Microsoft Office; WhatsApp, Facebook Messenger, Twitter, Instagram, LinkedIn;  Spotify; 
+
+9-
+Caminhada ao ar livre
+Pintura ou desenho
+Prática de esportes
+Leitura de livros físicos
+Cozinhar ou assar alimentos sem o uso de receitas digitais
+Meditação
+Cultivo de plantas
+Prática de instrumentos musicais
+Acampamento
+
+10- 
+Embora a IA possa automatizar certas tarefas e funções anteriormente realizadas por humanos, 
+ela também está criando novas oportunidades e demandas por habilidades específicas.
+
+11- 
+RAM: 6GB
+ARMAZENAMENTO: 128 gb
+SSD
+Processador: AMD RYZEN 3
+Acer Aspire
+
+12- 
+Um algoritmo, no contexto da resolução do cubo mágico, 
+é uma série de movimentos específicos que são executados de forma a mover 
+as peças do cubo de uma configuração para outra.
+
+13- 
+Bit: Um bit é a menor unidade de dados em computação e 
+representa um único dígito binário, que pode ser 0 ou 1.
+Byte: Um byte é uma unidade de dados composta por uma sequência de 8 bits. 
+É a quantidade padrão de dados que um computador processa ou armazena em uma única operação
+
+14- 
+Representação de Ponto Fixo: Neste método, um número real é representado 
+usando uma quantidade fixa de bits para a parte inteira e a parte fracionária.
+Representação de Ponto Flutuante:divide o número em três partes: 
+sinal, expoente e mantissa. O sinal indica se o número é positivo ou negativo, 
+o expoente define a escala do número e a mantissa fornece os detalhes do número em si.
+
+15- 
+150 ÷ 2 = 75, resto 0
+75 ÷ 2 = 37, resto 1
+37 ÷ 2 = 18, resto 1
+18 ÷ 2 = 9, resto 0
+9 ÷ 2 = 4, resto 1
+4 ÷ 2 = 2, resto 0
+2 ÷ 2 = 1, resto 0
+1 ÷ 2 = 0, resto 1
+
+número binário: 10010110 (ordem dos restos invertida)
+
+16-
+o Scrum Master é responsável por facilitar o processo, 
+o Dono do Produto é responsável por gerenciar o Product Backlog e definir as prioridades, 
+enquanto o Time de Desenvolvimento é responsável por entregar o produto incrementado a cada sprint.
+ 
+17- 
+Windows: 
+Para mover um arquivo de um local para outro, você usa o comando move
+Para renomear um arquivo, você pode usar o comando ren
+Para remover (excluir) um arquivo no Windows, você pode usar o comando del
+
+18-
+WiFi: É uma tecnologia que permite conexão sem fio à internet e redes locais. 
+As versões mais comuns são 802.11b, 802.11g, 802.11n, 802.11ac e 802.11ax (Wi-Fi 6). 
+Cada uma oferece diferentes velocidades e alcances.
+A conexão WiFi funciona através de ondas de rádio que são transmitidas entre um roteador sem fio 
+e um dispositivo habilitado para WiFi, como um smartphone, laptop ou tablet. 
+
+Bluetooth: No caso do Bluetooth, a conexão funciona de forma semelhante, 
+mas em vez de usar ondas de rádio para se comunicar com um roteador, 
+os dispositivos Bluetooth se comunicam diretamente entre si em uma pequena área de cobertura. 
+Isso permite que eles troquem dados e informações, como áudio, vídeos, imagens e mensagens, 
+sem a necessidade de uma conexão com a internet.
